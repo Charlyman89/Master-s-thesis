@@ -1,2 +1,2 @@
-# Master-s-thesis
-This file contains my masters thesis
+# AIMS thesis
+This file contains my AIMS masters thesis
